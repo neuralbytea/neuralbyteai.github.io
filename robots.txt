@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://4858hammad.github.io/neuralbyte.github.io/sitemap.xml
+Sitemap: https://neuralbytea.github.io/neuralbyteai.github.io/sitemap.xml

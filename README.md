@@ -2,7 +2,7 @@
 
 Company site for NeuralBytea: the Odoo 18 apps published on the
 [Odoo Apps Store](https://apps.odoo.com/apps/browse?repo_maintainer_id=1172096).
-Live at https://4858hammad.github.io/neuralbyte.github.io/ once GitHub Pages is enabled.
+Live at https://neuralbytea.github.io/neuralbyteai.github.io/ once GitHub Pages is enabled.
 
 Static site, no build step. Same architecture as the personal portfolio:
 `portfolio_data.yaml` holds all content, `assets/app.js` loads it with js-yaml

@@ -2,7 +2,7 @@ site:
   name: "NeuralBytea"
   tagline: "Odoo apps and custom development"
   description: "NeuralBytea builds production-ready Odoo 18 apps: vendor, customer and employee portals, payment providers, HR and payroll tools, dashboards and backend UI upgrades. 17 apps on the Odoo Apps Store."
-  url: "https://4858hammad.github.io/neuralbyte.github.io"
+  url: "https://neuralbytea.github.io/neuralbyteai.github.io"
   available_for_work: true
   store: "https://apps.odoo.com/apps/browse?repo_maintainer_id=1172096"
 
